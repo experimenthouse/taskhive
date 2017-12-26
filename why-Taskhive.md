@@ -20,4 +20,13 @@ Taskhive will not prescribe payment methods or currencies for its users, except 
 
 ## Data autonomy
 
-The nature of existing services is that vendors are effectively customers of the service, who pay fees based on work performed in the marketplace. 
+Existing services require substantial amounts of personal information be provided to them by their users. By contrast, Taskhive will allow users to choose how much (or how little) information they share about themselves. This allows users to control the level of privacy they enjoy, and economically liberates individuals who have reason to avoid sharing their personal information.
+
+## Privacy
+
+Not only can users choose the amount of information they share about themselves, Taskhive stores all information in an encrypted, decentralised manner. There is no central database or server open to attacks, and user information is not available to be exploited by private commercial interests.
+
+## Censorship-resistant
+
+As a decentralised system rather than a centralised business, Taskhive itself cannot censor content. Whereas some existing services may censor the services provided or requested, Taskhive simply does not have that capacity.
+
