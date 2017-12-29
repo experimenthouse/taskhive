@@ -1,10 +1,10 @@
 # Taskhive Workflow
 
-## Planning Stage
+## Planning
 
-## Design Stage
+## Design
 
-## Development Stage
+## Development
 
 ## Testing, auditing and quality control
 
@@ -14,6 +14,6 @@ If failed, goes back to development
 
 ## Alpha release
 
-If failed, goes back to TAQC.
+If failed, goes back to TAQC
 
 ## Official release
